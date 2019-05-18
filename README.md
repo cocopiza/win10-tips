@@ -26,5 +26,12 @@
 - win + x => 打开快捷菜单
 - win + Y =>
 - win + Z =>
+- win + + => 打开放大镜
+- win + - => 缩小放大镜
+- win + , => 预览桌面
+- win + ; => 打开 emoji
+- win + PrtSc => 全屏截图
+
+asid
 
 ## 命令行
