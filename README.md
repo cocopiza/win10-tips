@@ -32,6 +32,7 @@
 - win + ; => 打开 emoji
 - win + PrtSc => 全屏截图
 
-asid
-
 ## 命令行
+
+- help \[cmd\] 显示帮助
+- dir 列出当前文件夹的文件
