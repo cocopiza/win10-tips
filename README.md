@@ -34,5 +34,29 @@
 
 ## 命令行
 
+- | 管道
+  - dir | more
+- <> 重定向
+  - echo hello,world > foo.txt
+- && 连接多个命令
+  - mkdir test && cd test
 - help \[cmd\] 显示帮助
+  - help dir
 - dir 列出当前文件夹的文件
+  - dir /s
+- type 显示文件内容
+  - type foo.txt
+- copy 复制文件
+  - copy a.txt b.txt
+- del 删除文件
+  - del a.txt
+- doskey 定制宏命令
+  - doskey tp=cd c:
+- more 对输出进行分页
+  - dir | more
+- ping 测试网络连通性
+  - ping google.com
+- pingpath 测试网络连通性并显示路由
+  - pingpath google.com
+- clip 访问剪切板
+  - dir | clip
