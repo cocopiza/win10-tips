@@ -60,3 +60,15 @@
   - pingpath google.com
 - clip 访问剪切板
   - dir | clip
+
+## PowerShell
+
+- get-help 获取帮助
+- new-item 新建文件
+- get-content 查看文件内容
+- set-content 向文件写入内容
+- clear-content 删除文件内容
+- copy-item 复制文件
+- remove-item 删除文件
+- get-childitem 显示当前文件夹内容
+- get-alias 获取命令别名
