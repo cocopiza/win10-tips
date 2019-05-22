@@ -72,3 +72,19 @@
 - remove-item 删除文件
 - get-childitem 显示当前文件夹内容
 - get-alias 获取命令别名
+- read-host 获取用户输入
+- write-host 输出到命令行
+- write-warning 写出警告
+- invoke-item 用默认程序执行文件
+- 特殊变量
+  - \$\$ 上个命令的最后一个字符
+  - $^ 上各命令的第一个字符
+  - $_ 管道中的当前对象
+  - $? 上个命令是否成功执行
+  - $args 参数
+  - $errors 错误数组
+  - $HOME 家目录
+  - $HOST 主机信息
+  - $PID 进程信息
+  - $TRUE 
+  - $FALSE 
