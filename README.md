@@ -88,3 +88,8 @@
   - $PID 进程信息
   - $TRUE 
   - $FALSE 
+- enable-psremoting 接受远程ps命令
+- logoff.exe 注销当前用户
+- rundll32.exe user32.dll,LocKWorkStation 锁屏
+- stop-computer 关机
+- restart-computer 重启
