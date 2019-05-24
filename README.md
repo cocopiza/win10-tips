@@ -93,3 +93,6 @@
 - rundll32.exe user32.dll,LocKWorkStation 锁屏
 - stop-computer 关机
 - restart-computer 重启
+- start-service 启动服务
+- stop-service 关闭服务
+- restart-service 重启服务
